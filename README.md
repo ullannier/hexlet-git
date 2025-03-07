@@ -1,2 +1,1 @@
-Hello, Hexlet! How are you
-new row
+No code No pain
